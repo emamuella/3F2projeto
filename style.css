@@ -49,3 +49,9 @@ nav a:hover{
     transform: scale(0.9);
     transition: transform 0.5s;
 }
+footer{
+    background-color: var(--cor-secundaria);
+    color:var(--cor-secundaria);
+    text-align: center;
+
+}

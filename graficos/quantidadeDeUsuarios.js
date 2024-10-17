@@ -12,7 +12,7 @@ async function quantidadeDeUsuarios(){
             y:quantidadeDeUsuarios,
             type: 'bar',
             marker:{
-                color:getCSS(--cor-secundaria),
+                color:getCSS('--cor-secundaria'),
             }
         }
     ]
